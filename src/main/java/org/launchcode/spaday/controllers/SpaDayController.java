@@ -7,6 +7,10 @@ import java.util.ArrayList;
 
 
 @Controller
+class UserController {
+
+}
+@Controller
 public class SpaDayController {
 
     public boolean checkSkinType(String skinType, String facialType) {
